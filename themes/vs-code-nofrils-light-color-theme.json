@@ -1,7 +1,7 @@
 {
   "name": "VSCode Nofrils Light",
   "type": "light",
-  "semanticHighlighting": true,
+  // "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#000000"
@@ -1749,8 +1749,6 @@
   ],
   "colors": {
     "editor.background": "#dadada",
-    "editorCursor.foreground": "#0000000",
-    "editorCursor.background": "#4a4b4020",
     "editor.foreground": "#000000",
     "editorWhitespace.foreground": "#00000030",
     "editor.lineHighlightBackground": "#e4e4e4",
@@ -1846,7 +1844,7 @@
     "editorGroupHeader.tabsBackground": "#dadada",
     "editorGroupHeader.tabsBorder": "#dadada",
     "tab.activeBackground": "#dadada",
-    "tab.activeForeground": "#00000090",
+    "tab.activeForeground": "#000000",
     "tab.border": "#dadada",
     "tab.activeBorder": "#00000080",
     "tab.unfocusedActiveBorder": "#00000080",
@@ -1933,10 +1931,12 @@
     "statusBarItem.remoteBackground": "#334960",
     "statusBarItem.remoteForeground": "#e4e4e4",
     "titleBar.activeBackground": "#dadada",
-    "titleBar.activeForeground": "#00000090",
+    "titleBar.activeForeground": "#000000",
     "titleBar.inactiveBackground": "#dadada",
     "titleBar.inactiveForeground": "#00000070",
     "titleBar.border": "#dadada",
+    "disabledForeground": "#00000070",
+    "menu.foreground": "#000000",
     "extensionButton.prominentForeground": "#e4e4e4",
     "extensionButton.prominentBackground": "#334960",
     "extensionButton.prominentHoverBackground": "#334960",
