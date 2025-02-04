@@ -1,0 +1,51 @@
+{
+  "name": "VSCode Nofrils Dark",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#eeeeee"
+    },
+    "variable.constant": {
+      "foreground": "#eeeeee"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#eeeeee"
+    }
+  },
+  "tokenColors": "./Nofrills.tmTheme",
+  "colors": {
+    "editor.background": "#121212",
+    "editorCursor.foreground": "#eeeeee",
+    "editor.foreground": "#eeeeee",
+    "editorWhitespace.foreground": "#eeeeee",
+    "editor.lineHighlightBackground": "#262626",
+    "editor.selectionBackground": "#4a4b40",
+    "editor.selectionForeground": "#121212",
+    "editor.selectionHighlightBackground": "#606060",
+    "editorBracketHighlight.foreground1": "#eeeeee",
+    "editorBracketHighlight.foreground2": "#eeeeee",
+    "editorBracketHighlight.foreground3": "#eeeeee",
+    "editorBracketHighlight.foreground4": "#eeeeee",
+    "editorBracketHighlight.foreground5": "#eeeeee",
+    "editorBracketHighlight.foreground6": "#eeeeee",
+    "terminal.background": "#e4e4e4",
+    "terminal.foreground": "#4a4b40",
+    "terminal.ansiBlack": "#11151c",
+    "terminal.ansiRed": "#ea6c73",
+    "terminal.ansiGreen": "#7fd962",
+    "terminal.ansiYellow": "#f9af4f",
+    "terminal.ansiBlue": "#53bdfa",
+    "terminal.ansiMagenta": "#cda1fa",
+    "terminal.ansiCyan": "#90e1c6",
+    "terminal.ansiWhite": "#c7c7c7",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#f07178",
+    "terminal.ansiBrightGreen": "#aad94c",
+    "terminal.ansiBrightYellow": "#ffb454",
+    "terminal.ansiBrightBlue": "#59c2ff",
+    "terminal.ansiBrightMagenta": "#d2a6ff",
+    "terminal.ansiBrightCyan": "#95e6cb",
+    "terminal.ansiBrightWhite": "#ffffff"
+  }
+}

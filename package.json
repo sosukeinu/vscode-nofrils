@@ -1,0 +1,32 @@
+{
+    "publisher": "batteajd",
+    "repository": {
+        "url": "https://github.com/sosukeinu/vscode-nofrils",
+        "type": "git"
+    },
+    "name": "vscode-nofrils",
+    "displayName": "VSCode Nofrils (Dark/Light)",
+    "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrills and https://github.com/urld/vscode-nofrills.git",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCode Nofrils Light",
+                "uiTheme": "vs-light",
+                "path": "./themes/vs-code-nofrils-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-dark-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}
