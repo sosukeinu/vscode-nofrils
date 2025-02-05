@@ -1,19 +1,6 @@
 {
   "name": "VSCode Nofrils Dark",
   "type": "dark",
-  "semanticHighlighting": true,
-  "semanticTokenColors": {
-    "enumMember": {
-      "foreground": "#eeeeee"
-    },
-    "variable.constant": {
-      "foreground": "#eeeeee"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#eeeeee"
-    }
-  },
-  "tokenColors": "./Nofrills.tmTheme",
   "colors": {
     "editor.background": "#121212",
     "editorCursor.foreground": "#eeeeee",
@@ -47,5 +34,18 @@
     "terminal.ansiBrightMagenta": "#d2a6ff",
     "terminal.ansiBrightCyan": "#95e6cb",
     "terminal.ansiBrightWhite": "#ffffff"
-  }
+  },
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#eeeeee"
+    },
+    "variable.constant": {
+      "foreground": "#eeeeee"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#eeeeee"
+    }
+  },
+  "tokenColors": "./Nofrills.tmTheme",
 }
