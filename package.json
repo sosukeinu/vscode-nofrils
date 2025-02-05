@@ -18,7 +18,7 @@
         "themes": [
             {
                 "label": "VSCode Nofrils Light",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/vs-code-nofrils-light-color-theme.json"
             },
             {
