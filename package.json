@@ -7,7 +7,7 @@
     "name": "vscode-nofrils",
     "displayName": "VSCode Nofrils (Dark/Light)",
     "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrills and https://github.com/urld/vscode-nofrills.git",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -18,7 +18,7 @@
         "themes": [
             {
                 "label": "VSCode Nofrils Light",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/vs-code-nofrils-light-color-theme.json"
             },
             {
