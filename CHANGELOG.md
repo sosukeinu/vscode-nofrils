@@ -2,6 +2,10 @@
 
 All notable changes to the "nofrils" theme will be documented in this file.
 
+## [1.0.3]
+
+- Updated icon
+
 ## [1.0.2]
 
 - Added icon
