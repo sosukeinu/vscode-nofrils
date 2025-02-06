@@ -2,6 +2,11 @@
 
 All notable changes to the "nofrils" theme will be documented in this file.
 
+## [1.0.4]
+
+- Made colors for dark theme less abrasive
+- Changed README.md text to point to the correct extension page
+
 ## [1.0.3]
 
 - Updated icon
