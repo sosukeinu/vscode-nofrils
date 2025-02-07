@@ -2,6 +2,11 @@
 
 All notable changes to the "nofrils" theme will be documented in this file.
 
+## [1.1.0]
+
+- Added token colors to dark theme
+- Added two new themes that unify the color across the editor and the terminal panel
+
 ## [1.0.4]
 
 - Made colors for dark theme less abrasive
