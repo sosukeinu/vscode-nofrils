@@ -28,6 +28,16 @@
                 "path": "./themes/vs-code-nofrils-light-unified-color-theme.json"
             },
             {
+                "label": "VSCode Nofrils Sepia",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-sepia-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Sepia (Unified)",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-sepia-unified-color-theme.json"
+            },
+            {
                 "label": "VSCode Nofrils Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vs-code-nofrils-dark-color-theme.json"
