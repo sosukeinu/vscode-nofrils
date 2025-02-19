@@ -1,0 +1,1988 @@
+// Replace DARK_STANDIN DARK_MID_STANDIN LIGHT_STANDIN LIGHT_MID_STANDIN LIGHT_MID_DARK_STANDIN RED_STANDIN GREEN_STANDIN COMMENT_STANDIN ILLEGAL_STANDIN
+{
+  "name": "VSCode Nofrils TEMPLATE Dark",
+  "type": "dark",
+  "colors": {
+    "editor.background": "DARK_STANDIN",
+    "editor.foreground": "LIGHT_STANDIN",
+    "editorWhitespace.foreground": "LIGHT_STANDIN30",
+    "editor.lineHighlightBackground": "LIGHT_MID_STANDIN",
+    "editor.selectionBackground": "DARK_MID_STANDIN20",
+    "editor.selectionForeground": "DARK_STANDIN",
+    "editor.selectionHighlightBackground": "LIGHT_MID_DARK_STANDIN90",
+    "editorBracketHighlight.foreground1": "LIGHT_STANDIN",
+    "editorBracketHighlight.foreground2": "LIGHT_STANDIN",
+    "editorBracketHighlight.foreground3": "LIGHT_STANDIN",
+    "editorBracketHighlight.foreground4": "LIGHT_STANDIN",
+    "editorBracketHighlight.foreground5": "LIGHT_STANDIN",
+    "editorBracketHighlight.foreground6": "LIGHT_STANDIN",
+    "focusBorder": "DARK_MID_STANDIN",
+    "foreground": "LIGHT_STANDIN",
+    "widget.shadow": "LIGHT_STANDIN90",
+    "selection.background": "DARK_MID_STANDIN40",
+    "icon.foreground": "LIGHT_STANDIN",
+    "errorForeground": "RED_STANDIN",
+    "descriptionForeground": "LIGHT_STANDIN",
+    "textBlockQuote.background": "LIGHT_MID_STANDIN",
+    "textLink.foreground": "DARK_MID_STANDIN",
+    "textLink.activeForeground": "LIGHT_STANDIN90",
+    "textPreformat.foreground": "DARK_MID_STANDIN",
+    "button.background": "DARK_MID_STANDIN",
+    "button.foreground": "DARK_STANDIN",
+    "button.hoverBackground": "DARK_MID_STANDIN90",
+    "button.secondaryBackground": "DARK_MID_STANDIN90",
+    "button.secondaryForeground": "LIGHT_MID_STANDIN",
+    "button.secondaryHoverBackground": "DARK_MID_STANDIN80",
+    "dropdown.background": "LIGHT_MID_STANDIN",
+    "dropdown.foreground": "LIGHT_STANDIN",
+    "dropdown.border": "LIGHT_STANDIN",
+    "input.background": "LIGHT_MID_STANDIN",
+    "input.border": "LIGHT_STANDIN",
+    "input.foreground": "DARK_MID_STANDIN",
+    "input.placeholderForeground": "LIGHT_STANDIN",
+    "inputOption.activeBorder": "DARK_MID_STANDIN",
+    "inputOption.activeBackground": "DARK_MID_STANDIN",
+    "inputOption.activeForeground": "LIGHT_STANDIN90",
+    "inputValidation.errorBackground": "LIGHT_MID_STANDIN",
+    "inputValidation.errorBorder": "RED_STANDIN",
+    "inputValidation.infoBackground": "DARK_STANDIN",
+    "inputValidation.infoBorder": "DARK_MID_STANDIN",
+    "inputValidation.warningBackground": "DARK_STANDIN",
+    "inputValidation.warningBorder": "DARK_MID_STANDIN",
+    "editorGhostText.background": "LIGHT_MID_STANDIN",
+    "editorGhostText.foreground": "LIGHT_STANDIN",
+    "scrollbar.shadow": "DARK_MID_STANDIN",
+    "scrollbarSlider.background": "DARK_MID_STANDIN",
+    "scrollbarSlider.hoverBackground": "DARK_MID_STANDIN",
+    "scrollbarSlider.activeBackground": "DARK_MID_STANDIN",
+    "badge.background": "DARK_MID_STANDIN",
+    "badge.foreground": "LIGHT_MID_STANDIN",
+    "progressBar.background": "DARK_MID_STANDIN",
+    "list.activeSelectionBackground": "DARK_MID_STANDIN85",
+    "list.activeSelectionForeground": "DARK_MID_STANDIN",
+    "list.focusBackground": "DARK_MID_STANDIN85",
+    "list.focusForeground": "DARK_MID_STANDIN",
+    "list.focusOutline": "DARK_MID_STANDIN",
+    "list.highlightForeground": "DARK_MID_STANDIN",
+    "list.deemphasizedForeground": "DARK_MID_STANDIN85",
+    "list.hoverBackground": "DARK_MID_STANDIN85",
+    "list.inactiveSelectionBackground": "DARK_MID_STANDIN85",
+    "list.inactiveSelectionForeground": "DARK_MID_STANDIN",
+    "list.invalidItemForeground": "DARK_MID_STANDIN",
+    "list.errorForeground": "RED_STANDIN",
+    "tree.indentGuidesStroke": "DARK_MID_STANDIN",
+    "listFilterWidget.background": "LIGHT_MID_STANDIN",
+    "listFilterWidget.outline": "DARK_MID_STANDIN",
+    "listFilterWidget.noMatchesOutline": "RED_STANDIN",
+    "list.filterMatchBackground": "DARK_MID_STANDIN85",
+    "list.filterMatchBorder": "DARK_MID_STANDIN",
+    "activityBar.background": "DARK_STANDIN",
+    "activityBar.foreground": "DARK_MID_STANDIN",
+    "activityBar.inactiveForeground": "LIGHT_STANDIN90",
+    "activityBar.border": "DARK_STANDIN",
+    "activityBar.activeBorder": "LIGHT_STANDIN80",
+    "activityBarBadge.background": "DARK_MID_STANDIN",
+    "activityBarBadge.foreground": "DARK_STANDIN",
+    "sideBar.background": "DARK_STANDIN",
+    "sideBar.border": "DARK_STANDIN",
+    "sideBarTitle.foreground": "DARK_MID_STANDIN",
+    "sideBarSectionHeader.background": "DARK_STANDIN",
+    "sideBarSectionHeader.foreground": "DARK_MID_STANDIN",
+    "sideBarSectionHeader.border": "DARK_STANDIN",
+    "minimap.background": "DARK_STANDIN",
+    "minimap.selectionHighlight": "LIGHT_STANDIN85",
+    "minimap.errorHighlight": "RED_STANDIN",
+    "minimap.findMatchHighlight": "DARK_MID_STANDIN85",
+    "minimapGutter.addedBackground": "GREEN_STANDIN",
+    "minimapGutter.modifiedBackground": "DARK_MID_STANDIN",
+    "minimapGutter.deletedBackground": "RED_STANDIN",
+    "editorGroup.border": "DARK_MID_STANDIN",
+    "editorGroupHeader.noTabsBackground": "DARK_STANDIN",
+    "editorGroupHeader.tabsBackground": "DARK_STANDIN",
+    "editorGroupHeader.tabsBorder": "DARK_STANDIN",
+    "tab.activeBackground": "DARK_STANDIN",
+    "tab.activeForeground": "LIGHT_STANDIN",
+    "tab.border": "DARK_STANDIN",
+    "tab.activeBorder": "LIGHT_STANDIN80",
+    "tab.unfocusedActiveBorder": "LIGHT_STANDIN80",
+    "tab.inactiveBackground": "DARK_STANDIN",
+    "tab.inactiveForeground": "LIGHT_STANDIN70",
+    "tab.unfocusedActiveForeground": "LIGHT_STANDIN90",
+    "tab.unfocusedInactiveForeground": "LIGHT_STANDIN70",
+    "editorLineNumber.foreground": "DARK_MID_STANDIN",
+    "editorLineNumber.activeForeground": "LIGHT_STANDIN90",
+    "editor.inactiveSelectionBackground": "LIGHT_STANDIN85",
+    "editor.selectionHighlightBorder": "GREEN_STANDIN",
+    "editor.wordHighlightBackground": "DARK_MID_STANDIN85",
+    "editor.wordHighlightStrongBackground": "GREEN_STANDIN85",
+    "editor.wordHighlightBorder": "DARK_MID_STANDIN",
+    "editor.wordHighlightStrongBorder": "GREEN_STANDIN",
+    "editor.findMatchBackground": "DARK_MID_STANDIN",
+    "editor.findMatchBorder": "DARK_MID_STANDIN",
+    "editor.findMatchHighlightBackground": "DARK_MID_STANDIN85",
+    "editor.findMatchHighlightBorder": "DARK_MID_STANDIN",
+    "editor.findRangeHighlightBackground": "DARK_MID_STANDIN85",
+    "editor.rangeHighlightBackground": "DARK_MID_STANDIN85",
+    "editorLink.activeForeground": "LIGHT_STANDIN90",
+    "editorRuler.foreground": "DARK_MID_STANDIN",
+    "editorCodeLens.foreground": "#787b80",
+    "editorBracketMatch.background": "DARK_MID_STANDIN",
+    "editorBracketMatch.border": "DARK_MID_STANDIN",
+    "editor.snippetTabstopHighlightBackground": "LIGHT_STANDIN",
+    "editorOverviewRuler.border": "DARK_MID_STANDIN",
+    "editorOverviewRuler.modifiedForeground": "DARK_MID_STANDIN",
+    "editorOverviewRuler.addedForeground": "GREEN_STANDIN",
+    "editorOverviewRuler.deletedForeground": "RED_STANDIN",
+    "editorOverviewRuler.errorForeground": "RED_STANDIN",
+    "editorOverviewRuler.warningForeground": "DARK_MID_STANDIN",
+    "editorOverviewRuler.bracketMatchForeground": "DARK_MID_STANDIN",
+    "editorOverviewRuler.wordHighlightForeground": "DARK_MID_STANDIN85",
+    "editorOverviewRuler.wordHighlightStrongForeground": "GREEN_STANDIN85",
+    "editorOverviewRuler.findMatchForeground": "DARK_MID_STANDIN85",
+    "editorError.foreground": "RED_STANDIN",
+    "editorWarning.foreground": "DARK_MID_STANDIN",
+    "editorGutter.modifiedBackground": "DARK_MID_STANDIN",
+    "editorGutter.addedBackground": "GREEN_STANDIN",
+    "editorGutter.deletedBackground": "DARK_MID_STANDIN",
+    "diffEditor.insertedTextBackground": "GREEN_STANDIN85",
+    "diffEditor.removedTextBackground": "RED_STANDIN85",
+    "diffEditor.diagonalFill": "DARK_MID_STANDIN",
+    "editorWidget.background": "LIGHT_MID_STANDIN",
+    "editorWidget.border": "DARK_MID_STANDIN",
+    "editorHoverWidget.background": "LIGHT_MID_STANDIN",
+    "editorHoverWidget.border": "DARK_MID_STANDIN",
+    "editorSuggestWidget.background": "LIGHT_MID_STANDIN",
+    "editorSuggestWidget.border": "DARK_MID_STANDIN",
+    "editorSuggestWidget.highlightForeground": "DARK_MID_STANDIN",
+    "editorSuggestWidget.selectedBackground": "DARK_MID_STANDIN",
+    "debugExceptionWidget.border": "DARK_MID_STANDIN",
+    "debugExceptionWidget.background": "LIGHT_MID_STANDIN",
+    "editorMarkerNavigation.background": "LIGHT_MID_STANDIN",
+    "peekView.border": "DARK_MID_STANDIN",
+    "peekViewTitle.background": "DARK_MID_STANDIN",
+    "peekViewTitleDescription.foreground": "DARK_MID_STANDIN",
+    "peekViewTitleLabel.foreground": "DARK_MID_STANDIN",
+    "peekViewEditor.background": "LIGHT_MID_STANDIN",
+    "peekViewEditor.matchHighlightBackground": "DARK_MID_STANDIN",
+    "peekViewEditor.matchHighlightBorder": "DARK_MID_STANDIN",
+    "peekViewResult.background": "LIGHT_MID_STANDIN",
+    "peekViewResult.fileForeground": "DARK_MID_STANDIN",
+    "peekViewResult.lineForeground": "DARK_MID_STANDIN",
+    "peekViewResult.matchHighlightBackground": "DARK_MID_STANDIN",
+    "peekViewResult.selectionBackground": "DARK_MID_STANDIN",
+    "panel.background": "DARK_STANDIN",
+    "panel.border": "DARK_MID_STANDIN",
+    "panelTitle.activeBorder": "LIGHT_STANDIN80",
+    "panelTitle.activeForeground": "LIGHT_STANDIN90",
+    "panelTitle.inactiveForeground": "LIGHT_STANDIN70",
+    "statusBar.background": "DARK_STANDIN",
+    "statusBar.foreground": "DARK_MID_STANDIN",
+    "statusBar.border": "DARK_STANDIN",
+    "statusBar.debuggingBackground": "DARK_MID_STANDIN",
+    "statusBar.debuggingForeground": "LIGHT_MID_STANDIN",
+    "statusBar.noFolderBackground": "LIGHT_MID_STANDIN",
+    "statusBarItem.activeBackground": "DARK_MID_STANDIN",
+    "statusBarItem.hoverBackground": "DARK_MID_STANDIN",
+    "statusBarItem.prominentBackground": "DARK_MID_STANDIN",
+    "statusBarItem.prominentHoverBackground": "LIGHT_STANDIN",
+    "statusBarItem.remoteBackground": "DARK_MID_STANDIN",
+    "statusBarItem.remoteForeground": "LIGHT_MID_STANDIN",
+    "titleBar.activeBackground": "DARK_STANDIN",
+    "titleBar.activeForeground": "LIGHT_STANDIN",
+    "titleBar.inactiveBackground": "DARK_STANDIN",
+    "titleBar.inactiveForeground": "LIGHT_STANDIN70",
+    "titleBar.border": "DARK_STANDIN",
+    "disabledForeground": "LIGHT_STANDIN70",
+    "menu.foreground": "LIGHT_STANDIN",
+    "extensionButton.prominentForeground": "LIGHT_MID_STANDIN",
+    "extensionButton.prominentBackground": "DARK_MID_STANDIN",
+    "extensionButton.prominentHoverBackground": "DARK_MID_STANDIN",
+    "pickerGroup.border": "DARK_MID_STANDIN",
+    "pickerGroup.foreground": "DARK_MID_STANDIN",
+    "debugToolBar.background": "LIGHT_MID_STANDIN",
+    "debugIcon.breakpointForeground": "DARK_MID_STANDIN",
+    "debugIcon.breakpointDisabledForeground": "DARK_MID_STANDIN",
+    "debugConsoleInputIcon.foreground": "DARK_MID_STANDIN",
+    "welcomePage.tileBackground": "DARK_STANDIN",
+    "welcomePage.progress.background": "DARK_MID_STANDIN",
+    "walkThrough.embeddedEditorBackground": "LIGHT_MID_STANDIN",
+    "gitDecoration.modifiedResourceForeground": "DARK_MID_STANDIN",
+    "gitDecoration.deletedResourceForeground": "RED_STANDIN",
+    "gitDecoration.untrackedResourceForeground": "GREEN_STANDIN",
+    "gitDecoration.ignoredResourceForeground": "LIGHT_STANDIN70",
+    "gitDecoration.conflictingResourceForeground": "RED_STANDIN85",
+    "gitDecoration.submoduleResourceForeground": "DARK_MID_STANDIN",
+    "settings.headerForeground": "DARK_MID_STANDIN",
+    "settings.modifiedItemIndicator": "DARK_MID_STANDIN",
+    "keybindingLabel.background": "LIGHT_MID_STANDIN",
+    "keybindingLabel.foreground": "DARK_MID_STANDIN",
+    "keybindingLabel.border": "DARK_MID_STANDIN",
+    "keybindingLabel.bottomBorder": "DARK_MID_STANDIN",
+    //remove between these comments for unified themes
+    "terminal.background": "LIGHT_STANDIN",
+    "terminal.foreground": "DARK_STANDIN",
+    "terminal.ansiBlack": "LIGHT_STANDIN",
+    "terminal.ansiRed": "#ea6c6d",
+    "terminal.ansiGreen": "#6cbf43",
+    "terminal.ansiYellow": "#eca944",
+    "terminal.ansiBlue": "#3199e1",
+    "terminal.ansiMagenta": "#9e75c7",
+    "terminal.ansiCyan": "#46ba94",
+    "terminal.ansiWhite": "#c7c7c7",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#f07171",
+    "terminal.ansiBrightGreen": "#86b300",
+    "terminal.ansiBrightYellow": "#f2ae49",
+    "terminal.ansiBrightBlue": "#399ee6",
+    "terminal.ansiBrightMagenta": "#a37acc",
+    "terminal.ansiBrightCyan": "#4cbf99",
+    "terminal.ansiBrightWhite": "#d1d1d1"
+    //remove between these comments for unified themes
+  },
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "LIGHT_STANDIN"
+    },
+    "variable.constant": {
+      "foreground": "LIGHT_STANDIN"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "LIGHT_STANDIN"
+    }
+  },
+  "tokenColors": [
+    {
+      "name": "unison punctuation",
+      "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "haskell variable generic-type",
+      "scope": "variable.other.generic-type.haskell",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "haskell storage type",
+      "scope": "storage.type.haskell",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support.variable.magic.python",
+      "scope": "support.variable.magic.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "punctuation.separator.parameters.python",
+      "scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "variable.parameter.function.language.special.self.python",
+      "scope": "variable.parameter.function.language.special.self.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "storage.modifier.lifetime.rust",
+      "scope": "storage.modifier.lifetime.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support.function.std.rust",
+      "scope": "support.function.std.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "entity.name.lifetime.rust",
+      "scope": "entity.name.lifetime.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "variable.language.rust",
+      "scope": "variable.language.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support.constant.edge",
+      "scope": "support.constant.edge",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "regexp constant character-class",
+      "scope": "constant.other.character-class.regexp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "regexp operator.quantifier",
+      "scope": "keyword.operator.quantifier.regexp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "punctuation.definition",
+      "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Text",
+      "scope": "variable.parameter.function",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Comment Markup Link",
+      "scope": "comment markup.link",
+      "settings": {
+        "foreground": "COMMENT_STANDIN"
+      }
+    },
+    {
+      "name": "markup diff",
+      "scope": "markup.changed.diff",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "diff",
+      "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "inserted.diff",
+      "scope": "markup.inserted.diff",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "deleted.diff",
+      "scope": "markup.deleted.diff",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "c++ function",
+      "scope": "meta.function.c,meta.function.cpp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "c++ block",
+      "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts punctuation separator key-value",
+      "scope": "punctuation.separator.key-value",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts import keyword",
+      "scope": "keyword.operator.expression.import",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "math js/ts",
+      "scope": "support.constant.math",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "math property js/ts",
+      "scope": "support.constant.property.math",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts variable.other.constant",
+      "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java type",
+      "scope": [
+        "storage.type.annotation.java",
+        "storage.type.object.array.java"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java source",
+      "scope": "source.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java modifier.import",
+      "scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java modifier.import",
+      "scope": "meta.method.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java modifier.import",
+      "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java instanceof",
+      "scope": "keyword.operator.instanceof.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "java variable.name",
+      "scope": "meta.definition.variable.name.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "operator logical",
+      "scope": "keyword.operator.logical",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "operator bitwise",
+      "scope": "keyword.operator.bitwise",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "operator channel",
+      "scope": "keyword.operator.channel",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support.constant.property-value.scss",
+      "scope": "support.constant.property-value.scss,support.constant.property-value.css",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "CSS/SCSS/LESS Operators",
+      "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "css color standard name",
+      "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "css comma",
+      "scope": "punctuation.separator.list.comma.css",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "css attribute-name.id",
+      "scope": "support.constant.color.w3c-standard-color-name.css",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "css property-name",
+      "scope": "support.type.vendored.property-name.css",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts module",
+      "scope": "support.module.node,support.type.object.module,support.module.node",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "entity.name.type.module",
+      "scope": "entity.name.type.module",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js variable readwrite",
+      "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts json",
+      "scope": "support.constant.json",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts Keyword",
+      "scope": [
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.new",
+        "keyword.operator.ternary",
+        "keyword.operator.optional",
+        "keyword.operator.expression.keyof"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts console",
+      "scope": "support.type.object.console",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts support.variable.property.process",
+      "scope": "support.variable.property.process",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js console function",
+      "scope": "entity.name.function,support.function.console",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "keyword.operator.misc.rust",
+      "scope": "keyword.operator.misc.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "keyword.operator.sigil.rust",
+      "scope": "keyword.operator.sigil.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "operator",
+      "scope": "keyword.operator.delete",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js dom",
+      "scope": "support.type.object.dom",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js dom variable",
+      "scope": "support.variable.dom,support.variable.property.dom",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "keyword.operator",
+      "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "C operator assignment",
+      "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": "punctuation.separator.delimiter",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Other punctuation .c",
+      "scope": "punctuation.separator.c,punctuation.separator.cpp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "C type posix-reserved",
+      "scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "keyword.operator.sizeof.c",
+      "scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python parameter",
+      "scope": "variable.parameter.function.language.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python type",
+      "scope": "support.type.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python logical",
+      "scope": "keyword.operator.logical.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "pyCs",
+      "scope": "variable.parameter.function.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python block",
+      "scope": "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python function-call.generic",
+      "scope": "meta.function-call.generic.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python placeholder reset to normal string",
+      "scope": "constant.character.format.placeholder.other.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Compound Assignment Operators",
+      "scope": "keyword.operator.assignment.compound",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Compound Assignment Operators js/ts",
+      "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Namespaces",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": "variable",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": "variable.c",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Language variables",
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Java Variables",
+      "scope": "token.variable.parameter.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Java Imports",
+      "scope": "import.storage.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Packages",
+      "scope": "token.package.keyword",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Packages",
+      "scope": "token.package",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "entity.name.function",
+        "meta.require",
+        "support.function.any-method",
+        "variable.function"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Classes",
+      "scope": "entity.name.type.namespace",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Classes",
+      "scope": "support.class, entity.name.type.class",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Class name",
+      "scope": "entity.name.class.identifier.namespace.type",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Class name",
+      "scope": [
+        "entity.name.class",
+        "variable.other.class.js",
+        "variable.other.class.ts"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Class name php",
+      "scope": "variable.other.class.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Type Name",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Keyword Control",
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Control Elements",
+      "scope": "control.elements, keyword.operator.less",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Methods",
+      "scope": "keyword.other.special-method",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Storage JS TS",
+      "scope": "token.storage",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
+      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Java Storage",
+      "scope": "token.storage.type.java",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Support type",
+      "scope": "support.type.property-name",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Support type",
+      "scope": "support.constant.property-value",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Support type",
+      "scope": "support.constant.font-name",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Meta tag",
+      "scope": "meta.tag",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": "string",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Inherited Class",
+      "scope": "entity.other.inherited-class",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Constant other symbol",
+      "scope": "constant.other.symbol",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Integers",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Constants",
+      "scope": "constant",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Constants",
+      "scope": "punctuation.definition.constant",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Tags",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Attribute IDs",
+      "scope": "entity.other.attribute-name.id",
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Attribute class",
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "fontStyle": "normal",
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Selector",
+      "scope": "meta.selector",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Headings",
+      "scope": "markup.heading",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Headings",
+      "scope": "markup.heading punctuation.definition.heading, entity.name.section",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Units",
+      "scope": "keyword.other.unit",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Bold",
+      "scope": "markup.bold,todo.bold",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Bold",
+      "scope": "punctuation.definition.bold",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "markup Italic",
+      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "emphasis md",
+      "scope": "emphasis md",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown headings",
+      "scope": "entity.name.section.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
+      "scope": "punctuation.definition.heading.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "punctuation.definition.list.begin.markdown",
+      "scope": "punctuation.definition.list.begin.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown heading setext",
+      "scope": "markup.heading.setext",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
+      "scope": "punctuation.definition.bold.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
+      "scope": "markup.inline.raw.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
+      "scope": "markup.inline.raw.string.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
+      "scope": "punctuation.definition.list.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
+      "scope": [
+        "punctuation.definition.string.begin.markdown",
+        "punctuation.definition.string.end.markdown",
+        "punctuation.definition.metadata.markdown"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "beginning.punctuation.definition.list.markdown",
+      "scope": ["beginning.punctuation.definition.list.markdown"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
+      "scope": "punctuation.definition.metadata.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
+      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
+      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Regular Expressions",
+      "scope": "string.regexp",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Escape Characters",
+      "scope": "constant.character.escape",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Embedded",
+      "scope": "punctuation.section.embedded, variable.interpolation",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Embedded",
+      "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "illegal",
+      "scope": "invalid.illegal",
+      "settings": {
+        "foreground": "ILLEGAL_STANDIN"
+      }
+    },
+    {
+      "name": "illegal",
+      "scope": "invalid.illegal.bad-ampersand.html",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Broken",
+      "scope": "invalid.broken",
+      "settings": {
+        "foreground": "ILLEGAL_STANDIN"
+      }
+    },
+    {
+      "name": "Deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "foreground": "ILLEGAL_STANDIN"
+      }
+    },
+    {
+      "name": "Unimplemented",
+      "scope": "invalid.unimplemented",
+      "settings": {
+        "foreground": "ILLEGAL_STANDIN"
+      }
+    },
+    {
+      "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
+      "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
+      "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
+      "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
+      "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JSON Property Name",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
+      "scope": "support.type.property-name.json punctuation",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "laravel blade tag",
+      "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "laravel blade @",
+      "scope": "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "use statement for other classes",
+      "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "error suppression",
+      "scope": "keyword.operator.error-control.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php instanceof",
+      "scope": "keyword.operator.type.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "style double quoted array index normal begin",
+      "scope": "punctuation.section.array.begin.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "style double quoted array index normal end",
+      "scope": "punctuation.section.array.end.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php illegal.non-null-typehinted",
+      "scope": "invalid.illegal.non-null-typehinted.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php types",
+      "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php call-function",
+      "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php function-resets",
+      "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support php constants",
+      "scope": "support.constant.core.rust",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "support php constants",
+      "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php goto",
+      "scope": "entity.name.goto-label.php,support.other.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php logical/bitwise operator",
+      "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php regexp operator",
+      "scope": "keyword.operator.regexp.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php comparison",
+      "scope": "keyword.operator.comparison.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "php heredoc/nowdoc",
+      "scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python function decorator @",
+      "scope": "meta.function.decorator.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "python function support",
+      "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "parameter function js/ts",
+      "scope": "function.parameter",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "brace function",
+      "scope": "function.brace",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "parameter function ruby cs",
+      "scope": "function.parameter.ruby, function.parameter.cs",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "constant.language.symbol.ruby",
+      "scope": "constant.language.symbol.ruby",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "rgb-value",
+      "scope": "rgb-value",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "rgb value",
+      "scope": "inline-color-decoration rgb-value",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "rgb value less",
+      "scope": "less rgb-value",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "sass selector",
+      "scope": "selector.sass",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "ts primitive/builtin types",
+      "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "block scope",
+      "scope": "block.scope.end,block.scope.begin",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "cs storage type",
+      "scope": "storage.type.cs",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "cs local variable",
+      "scope": "entity.name.variable.local.cs",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "String interpolation",
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Reset JavaScript string interpolation expression",
+      "scope": ["meta.template.expression"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Import module JS",
+      "scope": ["keyword.operator.module"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js Flowtype",
+      "scope": ["support.type.type.flowtype"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js Flow",
+      "scope": ["support.type.primitive"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js class prop",
+      "scope": ["meta.property.object"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js func parameter",
+      "scope": ["variable.parameter.function.js"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js template literals begin",
+      "scope": ["keyword.other.template.begin"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js template literals end",
+      "scope": ["keyword.other.template.end"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js template literals variable braces begin",
+      "scope": ["keyword.other.substitution.begin"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js template literals variable braces end",
+      "scope": ["keyword.other.substitution.end"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js operator.assignment",
+      "scope": ["keyword.operator.assignment"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "go operator",
+      "scope": ["keyword.operator.assignment.go"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "go operator",
+      "scope": [
+        "keyword.operator.arithmetic.go",
+        "keyword.operator.address.go"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Go package name",
+      "scope": ["entity.name.package.go"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "elm prelude",
+      "scope": ["support.type.prelude.elm"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "elm constant",
+      "scope": ["support.constant.elm"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "template literal",
+      "scope": ["punctuation.quasi.element"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "html/pug (jade) escaped characters and entities",
+      "scope": ["constant.character.entity"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
+      "scope": [
+        "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.pseudo-class"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Clojure globals",
+      "scope": ["entity.global.clojure"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Clojure symbols",
+      "scope": ["meta.symbol.clojure"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Clojure constants",
+      "scope": ["constant.keyword.clojure"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "CoffeeScript Function Argument",
+      "scope": ["meta.arguments.coffee", "variable.parameter.function.coffee"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Ini Default Text",
+      "scope": ["source.ini"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Makefile prerequisities",
+      "scope": ["meta.scope.prerequisites.makefile"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Makefile text colour",
+      "scope": ["source.makefile"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Groovy import names",
+      "scope": ["storage.modifier.import.groovy"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Groovy Methods",
+      "scope": ["meta.method.groovy"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Groovy Variables",
+      "scope": ["meta.definition.variable.name.groovy"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Groovy Inheritance",
+      "scope": ["meta.definition.class.inherited.classes.groovy"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "HLSL Semantic",
+      "scope": ["support.variable.semantic.hlsl"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "HLSL Types",
+      "scope": [
+        "support.type.texture.hlsl",
+        "support.type.sampler.hlsl",
+        "support.type.object.hlsl",
+        "support.type.object.rw.hlsl",
+        "support.type.fx.hlsl",
+        "support.type.object.hlsl"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "SQL Variables",
+      "scope": ["text.variable", "text.bracketed"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "types",
+      "scope": ["support.type.swift", "support.type.vb.asp"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 1, keyword",
+      "scope": ["entity.name.function.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 2, callable",
+      "scope": ["entity.name.class.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 3, property",
+      "scope": ["constant.character.character-class.regexp.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 4, type, class, interface",
+      "scope": ["constant.regexp.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 5, enums, preprocessor, constant, decorator",
+      "scope": ["keyword.control.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "heading 6, number",
+      "scope": ["invalid.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "string",
+      "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "comments",
+      "scope": ["beginning.punctuation.definition.list.markdown.xi"],
+      "settings": {
+        "foreground": "COMMENT_STANDIN"
+      }
+    },
+    {
+      "name": "link",
+      "scope": ["constant.character.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "accent",
+      "scope": ["accent.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "wikiword",
+      "scope": ["wikiword.xi"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "language operators like '+', '-' etc",
+      "scope": ["constant.other.color.rgb-value.xi"],
+      "settings": {
+        "foreground": "ILLEGAL_STANDIN"
+      }
+    },
+    {
+      "name": "elements to dim",
+      "scope": ["punctuation.definition.tag.xi"],
+      "settings": {
+        "foreground": "COMMENT_STANDIN"
+      }
+    },
+    {
+      "name": "C++/C#",
+      "scope": [
+        "entity.name.label.cs",
+        "entity.name.scope-resolution.function.call",
+        "entity.name.scope-resolution.function.definition"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Markdown underscore-style headers",
+      "scope": [
+        "entity.name.label.cs",
+        "markup.heading.setext.1.markdown",
+        "markup.heading.setext.2.markdown"
+      ],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "meta.brace.square",
+      "scope": [" meta.brace.square"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "Comments",
+      "scope": "comment, punctuation.definition.comment",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "COMMENT_STANDIN"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Quote",
+      "scope": "markup.quote.markdown",
+      "settings": {
+        "foreground": "COMMENT_STANDIN"
+      }
+    },
+    {
+      "name": "punctuation.definition.block.sequence.item.yaml",
+      "scope": "punctuation.definition.block.sequence.item.yaml",
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "scope": ["constant.language.symbol.elixir"],
+      "settings": {
+        "foreground": "LIGHT_STANDIN"
+      }
+    },
+    {
+      "name": "js/ts italic",
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "comment",
+      "scope": "comment.line.double-slash,comment.block.documentation",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Python Keyword Control",
+      "scope": "keyword.control.import.python,keyword.control.flow.python",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "markup.italic.markdown",
+      "scope": "markup.italic.markdown",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
