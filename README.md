@@ -34,4 +34,28 @@ Damian Conway (of Perl) [^fn00]
 
 ![VS Code Nofrils Dark (Unified) Screenshot](images/vscode-nofrils-dark-unified-screenshot.png)
 
+# VS Code Nofrils Sepia
+
+![VS Code Nofrils Sepia Screenshot](images/vscode-nofrils-sepia-screenshot.png)
+
+# VS Code Nofrils Sepia (Unified)
+
+![VS Code Nofrils Sepia (Unified) Screenshot](images/vscode-nofrils-sepia-unified-screenshot.png)
+
+# VS Code Nofrils Gruvbox Dark
+
+![VS Code Nofrils Gruvbox Dark Screenshot](images/vscode-nofrils-gruvbox-dark-screenshot.png)
+
+# VS Code Nofrils Gruvbox Dark (Unified)
+
+![VS Code Nofrils Gruvbox Dark (Unified) Screenshot](images/vscode-nofrils-gruvbox-dark-unified-screenshot.png)
+
+# VS Code Nofrils Gruvbox Light
+
+![VS Code Nofrils Gruvbox Light Screenshot](images/vscode-nofrils-gruvbox-light-screenshot.png)
+
+# VS Code Nofrils Gruvbox Light (Unified)
+
+![VS Code Nofrils Gruvbox Light (Unified) Screenshot](images/vscode-nofrils-gruvbox-light-unified-screenshot.png)
+
 Install from https://marketplace.visualstudio.com/items?itemName=batteajd.vscode-nofrils.
