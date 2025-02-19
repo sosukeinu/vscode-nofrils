@@ -2,6 +2,13 @@
 
 All notable changes to the "nofrils" theme will be documented in this file.
 
+## [2.0.0]
+
+- Added Sepia and Sepia (Unified) theme
+- Added Gruvbox Light and Gruvbox Light (Unified) theme
+- Added Gruvbox Dark and Gruvbox Dark (Unified) theme
+- Added Light and Dark template files to ease the addition of new themes
+
 ## [1.1.0]
 
 - Added token colors to dark theme
