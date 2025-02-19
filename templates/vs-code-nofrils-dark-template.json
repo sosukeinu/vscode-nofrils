@@ -1,4 +1,4 @@
-// Replace DARK_STANDIN DARK_MID_STANDIN LIGHT_STANDIN LIGHT_MID_STANDIN LIGHT_MID_DARK_STANDIN RED_STANDIN GREEN_STANDIN COMMENT_STANDIN ILLEGAL_STANDIN
+// Replace DARK_STANDIN DARK_MID_STANDIN LIGHT_STANDIN LIGHT_MID_STANDIN LIGHT_MID_DARKER_STANDIN RED_STANDIN GREEN_STANDIN COMMENT_STANDIN ILLEGAL_STANDIN
 {
   "name": "VSCode Nofrils TEMPLATE Dark",
   "type": "dark",
@@ -9,7 +9,7 @@
     "editor.lineHighlightBackground": "LIGHT_MID_STANDIN",
     "editor.selectionBackground": "DARK_MID_STANDIN20",
     "editor.selectionForeground": "DARK_STANDIN",
-    "editor.selectionHighlightBackground": "LIGHT_MID_DARK_STANDIN90",
+    "editor.selectionHighlightBackground": "LIGHT_MID_DARKER_STANDIN90",
     "editorBracketHighlight.foreground1": "LIGHT_STANDIN",
     "editorBracketHighlight.foreground2": "LIGHT_STANDIN",
     "editorBracketHighlight.foreground3": "LIGHT_STANDIN",
