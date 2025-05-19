@@ -7,7 +7,8 @@
     "name": "vscode-nofrils",
     "displayName": "VSCode Nofrils (Dark/Light)",
     "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrills and https://github.com/urld/vscode-nofrills.git",
-    "version": "1.0.0",
+    "version": "2.0.0",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -22,9 +23,49 @@
                 "path": "./themes/vs-code-nofrils-light-color-theme.json"
             },
             {
+                "label": "VSCode Nofrils Light (Unified)",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-light-unified-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Sepia",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-sepia-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Sepia (Unified)",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-sepia-unified-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Gruvbox Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-gruvbox-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Gruvbox Light (Unified)",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-gruvbox-light-unified-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Gruvbox Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-gruvbox-dark-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Gruvbox Dark (Unified)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-gruvbox-dark-unified-color-theme.json"
+            },
+            {
                 "label": "VSCode Nofrils Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vs-code-nofrils-dark-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Dark (Unified)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-dark-unified-color-theme.json"
             }
         ]
     },

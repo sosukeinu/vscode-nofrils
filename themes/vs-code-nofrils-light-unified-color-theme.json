@@ -1,5 +1,5 @@
 {
-  "name": "VSCode Nofrils Light",
+  "name": "VSCode Nofrils Light (Unified)",
   "type": "light",
   "colors": {
     "editor.background": "#dadada",
@@ -216,25 +216,7 @@
     "keybindingLabel.background": "#e4e4e4",
     "keybindingLabel.foreground": "#4a4b40",
     "keybindingLabel.border": "#4a4b40",
-    "keybindingLabel.bottomBorder": "#4a4b40",
-    "terminal.background": "#4a4b40",
-    "terminal.foreground": "#e4e4e4",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiRed": "#ea6c6d",
-    "terminal.ansiGreen": "#6cbf43",
-    "terminal.ansiYellow": "#eca944",
-    "terminal.ansiBlue": "#3199e1",
-    "terminal.ansiMagenta": "#9e75c7",
-    "terminal.ansiCyan": "#46ba94",
-    "terminal.ansiWhite": "#c7c7c7",
-    "terminal.ansiBrightBlack": "#686868",
-    "terminal.ansiBrightRed": "#f07171",
-    "terminal.ansiBrightGreen": "#86b300",
-    "terminal.ansiBrightYellow": "#f2ae49",
-    "terminal.ansiBrightBlue": "#399ee6",
-    "terminal.ansiBrightMagenta": "#a37acc",
-    "terminal.ansiBrightCyan": "#4cbf99",
-    "terminal.ansiBrightWhite": "#d1d1d1"
+    "keybindingLabel.bottomBorder": "#4a4b40"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
