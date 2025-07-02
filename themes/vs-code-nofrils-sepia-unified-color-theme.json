@@ -216,7 +216,11 @@
     "keybindingLabel.background": "#d9d7b6",
     "keybindingLabel.foreground": "#878672",
     "keybindingLabel.border": "#878672",
-    "keybindingLabel.bottomBorder": "#878672"
+    "keybindingLabel.bottomBorder": "#878672",
+    "terminal.background": "#fdfbd4",
+    "terminal.selectionBackground": "#604a38",
+    "terminal.selectionForeground": "#fdfbd4",
+    "terminal.foreground": "#545333"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
