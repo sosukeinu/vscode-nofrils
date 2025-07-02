@@ -218,6 +218,8 @@
     "keybindingLabel.border": "#3c3836",
     "keybindingLabel.bottomBorder": "#3c3836",
     "terminal.background": "#282828",
+    "terminal.selectionBackground": "#555555",
+    "terminal.selectionForeground": "#fbf1c7",
     "terminal.foreground": "#fbf1c7",
     "terminal.ansiBlack": "#282828",
     "terminal.ansiRed": "#ea6c6d",
