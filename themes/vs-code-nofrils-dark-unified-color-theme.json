@@ -15,7 +15,11 @@
     "editorBracketHighlight.foreground3": "#e4e4e4",
     "editorBracketHighlight.foreground4": "#e4e4e4",
     "editorBracketHighlight.foreground5": "#e4e4e4",
-    "editorBracketHighlight.foreground6": "#e4e4e4"
+    "editorBracketHighlight.foreground6": "#e4e4e4",
+    "terminal.background": "#121212",
+    "terminal.selectionBackground": "#4a4b40",
+    "terminal.selectionForeground": "#e4e4e4",
+    "terminal.foreground": "#e4e4e4"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
