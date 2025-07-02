@@ -17,6 +17,8 @@
     "editorBracketHighlight.foreground5": "#e4e4e4",
     "editorBracketHighlight.foreground6": "#e4e4e4",
     "terminal.background": "#bababa",
+    "terminal.selectionBackground": "#4a4b40",
+    "terminal.selectionForeground": "#e4e4e4",
     "terminal.foreground": "#000000",
     "terminal.ansiBlack": "#11151c",
     "terminal.ansiRed": "#ea6c73",
