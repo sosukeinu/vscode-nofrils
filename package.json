@@ -7,7 +7,7 @@
     "name": "vscode-nofrils",
     "displayName": "VSCode Nofrils (Dark/Light)",
     "description": "No-frills minimal syntax highlighting themes. Features soothing color palettes inspired by popular themes like Tokyo Night, Nord, Dracula, and One Dark - designed to reduce eye strain and provide distraction-free coding.",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.33.0"
@@ -86,6 +86,21 @@
                 "label": "VSCode Nofrils One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vs-code-nofrils-one-dark-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Solarized Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-solarized-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils One Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-one-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils GitHub Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-github-light-color-theme.json"
             }
         ]
     },
