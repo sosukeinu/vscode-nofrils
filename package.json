@@ -6,8 +6,8 @@
     },
     "name": "vscode-nofrils",
     "displayName": "VSCode Nofrils (Dark/Light)",
-    "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrills and https://github.com/urld/vscode-nofrills.git",
-    "version": "2.0.1",
+    "description": "No-frills minimal syntax highlighting themes. Features soothing color palettes inspired by popular themes like Tokyo Night, Nord, Dracula, and One Dark - designed to reduce eye strain and provide distraction-free coding.",
+    "version": "2.2.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.33.0"
@@ -66,6 +66,41 @@
                 "label": "VSCode Nofrils Dark (Unified)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vs-code-nofrils-dark-unified-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Tokyo Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-tokyo-night-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Nord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-nord-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-dracula-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-nofrils-one-dark-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils Solarized Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-solarized-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils One Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-one-light-color-theme.json"
+            },
+            {
+                "label": "VSCode Nofrils GitHub Light",
+                "uiTheme": "vs",
+                "path": "./themes/vs-code-nofrils-github-light-color-theme.json"
             }
         ]
     },
